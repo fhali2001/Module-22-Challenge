@@ -1,5 +1,3 @@
-# Module-22-Challenge
-
 # Home Sales Data Analysis with SparkSQL
 
 This project aims to analyze home sales data using SparkSQL to derive key metrics. It involves tasks such as creating temporary views, partitioning data, caching, and uncaching temporary tables.
@@ -45,7 +43,7 @@ This project aims to analyze home sales data using SparkSQL to derive key metric
 
 To submit your Challenge assignment, provide the URL of your GitHub repository for grading.
 
-## Grade Table
+## Grading
 
 This project will be evaluated against the requirements and assigned a grade according to the following table:
 
